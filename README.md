@@ -1,2 +1,2 @@
-# grid-masonry
-simple grid masonry with JavaScript
+# Grid Masonry
+Simple grid masonry with JavaScript and CSS Grid
