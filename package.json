@@ -1,6 +1,6 @@
 {
   "name": "gridmasonry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple grid masonry with JavaScript and CSS Grid",
   "main": "GridMasonry.js",
   "scripts": {
@@ -15,8 +15,17 @@
     "url": "git+https://github.com/yazux/grid-masonry.git"
   },
   "bugs": {
-    "url": "https://github.com/yazux/grid-masonry"
+    "url": "https://github.com/yazux/grid-masonry",
+    "email" : "speed.live@mail.ru"
   },
+  "keywords": [
+    "javascript",
+    "css",
+    "grid",
+    "css grid",
+    "masonry",
+    "javascript masonry"
+  ],
   "homepage": "https://github.com/yazux/grid-masonry/issues",
   "devDependencies": {
     "babel-core": "^6.26.0",
